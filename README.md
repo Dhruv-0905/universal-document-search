@@ -91,6 +91,6 @@ python search_app.py
     -   Type your search terms into the query box and click **Search**.
     -   The status and results will appear in the text area below.
 
-##Contributoes
+## Contributors
     -  DbrittoRicky (https://github.com/steve0123456)
     -  steve0123456 (https://github.com/DbrittoRicky) 
