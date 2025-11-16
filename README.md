@@ -13,7 +13,13 @@ A desktop application built with Python and Tkinter that performs a powerful sem
 -   **User-Friendly GUI**: A simple and intuitive graphical interface built with Tkinter.
 
 ## Demo Representation
-![Demo GIF](./images/demo3.gif)
+![Demo GIF](./assets/demo3.gif)
+
+Demonstration of cloud storage retrival, local storage retrival and both at the same time aswell, the ```Google Drive Folder ID``` field asks for the UID generated when viewing that ```folder or directory``` in the browser ```for ex: https://drive.google.com/drive/u/1/folders/G9pA2jRzxB7kYnQw4tDc0vEoL3HfYsI-```
+
+The ```Google Drive Folder ID``` is hence ```G9pA2jRzxB7kYnQw4tDc0vEoL3HfYsI-``` it will be unique for every ```folder/directory or sub-directory```
+
+Follow the setup instructions below or feel free to reach out (@dhruvkd09@gmail.com) for any queries
 
 ## Setup Instructions
 
