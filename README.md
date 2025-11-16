@@ -12,6 +12,9 @@ A desktop application built with Python and Tkinter that performs a powerful sem
 -   **Contextual Results**: Displays the exact sentences that match your query, complete with line numbers, page numbers (for PDFs), and highlighted terms.
 -   **User-Friendly GUI**: A simple and intuitive graphical interface built with Tkinter.
 
+## Demo Representation
+![Demo GIF](./images/demo3.gif)
+
 ## Setup Instructions
 
 ### 1. Prerequisites
@@ -81,4 +84,3 @@ python search_app.py
 4.  **Enter Your Query & Search**:
     -   Type your search terms into the query box and click **Search**.
     -   The status and results will appear in the text area below.
-```
