@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# NLTK Data
+nltk_data/
+
+# Google API Credentials - CRITICAL
+credentials.json
+token.json
+
+# IDE and OS-specific files
+.idea/
+.vscode/
+.DS_Store
